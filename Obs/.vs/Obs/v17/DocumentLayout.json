@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\OgrenciDersFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\OgrenciDersFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\DersKayitFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\DersKayitFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\SinifKayitFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\SinifKayitFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\OgrKayitFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\OgrKayitFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\GirisFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\GirisFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\DersKayitFrm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\DersKayitFrm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\Resources.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\obj\\Obs.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Obs.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\Sinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Sinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\OgrenciDers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\OgrenciDers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\Ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\Ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Migrations\\20241231011533_addedAktifKontejanField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241231011533_addedAktifKontejanField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Migrations\\OBSDBContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\OBSDBContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Helper\\FormHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helper\\FormHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Data\\OBSDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\OBSDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\GirisFrm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:View\\GirisFrm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:43:20.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OgrKayitFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\OgrKayitFrm.cs",
+              "RelativeDocumentMoniker": "View\\OgrKayitFrm.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\OgrKayitFrm.cs",
+              "RelativeToolTip": "View\\OgrKayitFrm.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAM4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:39:51.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OgrenciDersFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\OgrenciDersFrm.cs",
+              "RelativeDocumentMoniker": "View\\OgrenciDersFrm.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\OgrenciDersFrm.cs",
+              "RelativeToolTip": "View\\OgrenciDersFrm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:38:39.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DersKayitFrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\DersKayitFrm.Designer.cs",
+              "RelativeDocumentMoniker": "View\\DersKayitFrm.Designer.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\DersKayitFrm.Designer.cs",
+              "RelativeToolTip": "View\\DersKayitFrm.Designer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:38:19.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:36:09.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Obs.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\obj\\Obs.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "obj\\Obs.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\obj\\Obs.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "obj\\Obs.csproj.nuget.dgspec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T15:36:02.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sinif.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\Sinif.cs",
+              "RelativeDocumentMoniker": "Model\\Sinif.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\Sinif.cs",
+              "RelativeToolTip": "Model\\Sinif.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:28:40.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DersKayitFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\DersKayitFrm.cs",
+              "RelativeDocumentMoniker": "View\\DersKayitFrm.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\DersKayitFrm.cs",
+              "RelativeToolTip": "View\\DersKayitFrm.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAMEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:36:53.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinifKayitFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\SinifKayitFrm.cs",
+              "RelativeDocumentMoniker": "View\\SinifKayitFrm.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\SinifKayitFrm.cs",
+              "RelativeToolTip": "View\\SinifKayitFrm.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAKAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:42:19.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OgrenciDers.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\OgrenciDers.cs",
+              "RelativeDocumentMoniker": "Model\\OgrenciDers.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\OgrenciDers.cs",
+              "RelativeToolTip": "Model\\OgrenciDers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:28:38.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "Model\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\Ogrenci.cs",
+              "RelativeToolTip": "Model\\Ogrenci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:28:37.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ders.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\Ders.cs",
+              "RelativeDocumentMoniker": "Model\\Ders.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Model\\Ders.cs",
+              "RelativeToolTip": "Model\\Ders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:28:35.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GirisFrm.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\GirisFrm.cs",
+              "RelativeDocumentMoniker": "View\\GirisFrm.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\GirisFrm.cs",
+              "RelativeToolTip": "View\\GirisFrm.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:42:15.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241231011533_addedAktifKontejanField.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Migrations\\20241231011533_addedAktifKontejanField.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241231011533_addedAktifKontejanField.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Migrations\\20241231011533_addedAktifKontejanField.cs",
+              "RelativeToolTip": "Migrations\\20241231011533_addedAktifKontejanField.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:28:29.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OBSDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Migrations\\OBSDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\OBSDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Migrations\\OBSDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\OBSDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:28:25.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GirisFrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\GirisFrm.Designer.cs",
+              "RelativeDocumentMoniker": "View\\GirisFrm.Designer.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\View\\GirisFrm.Designer.cs",
+              "RelativeToolTip": "View\\GirisFrm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:42:12.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OBSDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Data\\OBSDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\OBSDBContext.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Data\\OBSDBContext.cs",
+              "RelativeToolTip": "Data\\OBSDBContext.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:37:46.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Helper\\FormHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\FormHelper.cs",
+              "ToolTip": "C:\\Users\\ugurs\\OneDrive\\Masa\u00FCst\u00FC\\Obs\\Obs\\Helper\\FormHelper.cs",
+              "RelativeToolTip": "Helper\\FormHelper.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:37:39.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
